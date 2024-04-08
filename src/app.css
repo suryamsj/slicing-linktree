@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	font-family: 'Space Grotesk Variable', sans-serif;
+	font-weight: 500;
+}
+
+.link .box {
+	transition: box-shadow 0.4s ease-in-out;
+}
+
+.link:hover .box {
+	box-shadow: 4px 4px 0 #292929;
+	transition: box-shadow 0.4s ease-in-out;
+}
+
+.link .arrow {
+	transition: transform 0.3s ease-in-out;
+}
+
+.link:hover .arrow {
+	transform: rotate(-45deg);
+	transition: transform 0.3s ease-in-out;
+}

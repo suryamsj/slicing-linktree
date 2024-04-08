@@ -1,0 +1,27 @@
+[
+	{
+		"title": "X",
+		"url": "/",
+		"images": "/images/social/x.png"
+	},
+	{
+		"title": "Figma",
+		"url": "/",
+		"images": "/images/social/figma.png"
+	},
+	{
+		"title": "Dribble",
+		"url": "/",
+		"images": "/images/social/dribble.png"
+	},
+	{
+		"title": "Github",
+		"url": "/",
+		"images": "/images/social/github.png"
+	},
+	{
+		"title": "LinkedIn",
+		"url": "/",
+		"images": "/images/social/linkedin.png"
+	}
+]

@@ -1,0 +1,27 @@
+[
+	{
+		"title": "My Website",
+		"url": "/",
+		"images": "/images/icon/website.png"
+	},
+	{
+		"title": "Visual Ideas",
+		"url": "/",
+		"images": "/images/icon/visual.png"
+	},
+	{
+		"title": "Newsletter",
+		"url": "/",
+		"images": "/images/icon/news.png"
+	},
+	{
+		"title": "Shop",
+		"url": "/",
+		"images": "/images/icon/shop.png"
+	},
+	{
+		"title": "What I'm Doing Now",
+		"url": "/",
+		"images": "/images/icon/now.png"
+	}
+]
