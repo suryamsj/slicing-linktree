@@ -1,7 +1,7 @@
 [
 	{
 		"title": "My Website",
-		"url": "/",
+		"url": "https://www.suryamsj.xyz/",
 		"images": "/images/icon/website.png"
 	},
 	{
@@ -16,12 +16,12 @@
 	},
 	{
 		"title": "Shop",
-		"url": "/",
+		"url": "https://www.suryamsj.xyz/paid-projects",
 		"images": "/images/icon/shop.png"
 	},
 	{
 		"title": "What I'm Doing Now",
-		"url": "/",
+		"url": "https://www.suryamsj.xyz/working-experience",
 		"images": "/images/icon/now.png"
 	}
 ]

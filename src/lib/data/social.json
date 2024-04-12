@@ -1,7 +1,7 @@
 [
 	{
 		"title": "X",
-		"url": "/",
+		"url": "https://twitter.com/user_siomay",
 		"images": "/images/social/x.png"
 	},
 	{
@@ -16,12 +16,12 @@
 	},
 	{
 		"title": "Github",
-		"url": "/",
+		"url": "https://github.com/suryamsj",
 		"images": "/images/social/github.png"
 	},
 	{
 		"title": "LinkedIn",
-		"url": "/",
+		"url": "https://www.linkedin.com/in/suryamsj/",
 		"images": "/images/social/linkedin.png"
 	}
 ]

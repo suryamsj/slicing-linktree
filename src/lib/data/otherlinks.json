@@ -1,7 +1,7 @@
 [
 	{
 		"title": "Blog",
-		"url": "/",
+		"url": "https://www.suryamsj.xyz/",
 		"images": "/images/icon/blog.png"
 	},
 	{
@@ -10,8 +10,8 @@
 		"images": "/images/icon/book.png"
 	},
 	{
-		"title": "Notion Products",
-		"url": "/",
+		"title": "My Products",
+		"url": "https://www.suryamsj.xyz/paid-projects",
 		"images": "/images/icon/product.png"
 	},
 	{
